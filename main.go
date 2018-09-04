@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"sample/hello"
-	"sample/world"
+	"sample-go-repo/hello"
+	"sample-go-repo/world"
 )
 
 func main() {
